@@ -11,28 +11,24 @@ desc: Just record something.
 
 custom:
     category:
-        saying: 杂谈录
-	thinking: 勤思考
-	experience: 经验说
-	discovery: 新技术
-	criticism: 吐槽帝
+        thinking: 闭门思考
+        experience: 问题即经验
+        discovery: 日新月异
+        criticism: 非专业吐槽
     categories:
-      - name:  saying
-        title: 杂谈录
+      - name:  thinking
+        title: 闭门思考
 
-      - name: thinking
-        title: 勤思考
+      - name:  experience
+        title: 问题即经验
 
-      - name: experience
-        title: 经验说
+      - name:  discovery
+        title: 日新月异
 
-      - name: discovery
-        title: 新技术
+      - name:  criticism
+        title: 非专业吐槽
 
-      - name: criticism
-        title: 吐槽帝
-
-    scrollingLoadCount: 0                          # 滚屏自动加载文章数量，“0”为关闭
+    scrollingLoadCount: 1                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
