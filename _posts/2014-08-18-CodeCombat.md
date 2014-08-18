@@ -27,7 +27,7 @@ category: news
 
 自己玩了一下，还不错，目前支持的语言有`js`、`python`、`lua`等等。
 
-当然，如果你觉得网站的访问速度不行，应为整个项目是开源的，你可以从官方[github]仓库下载源码自己搭建本地服务器。
+当然，如果你觉得网站的访问速度不行，应为整个项目是开源的，你可以从官方[github][6]仓库下载源码自己搭建本地服务器。
 
 ### 享受编程带来的乐趣吧!
 
@@ -38,5 +38,6 @@ category: news
 [3]:http://scotterickson.info/
 [4]:http://www.nickwinter.net/
 [5]:http://www.skritter.com/
+[6]:https://github.com/codecombat/codecombat/
 
 {% include references.md %}
