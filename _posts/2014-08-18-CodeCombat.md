@@ -13,6 +13,7 @@ category: news
 > [George][2], [Scott][3], 和 [Nick][4] 在 2013 年开始一起编写 CodeCombat。在 2008 年时，我们还创造[Skritter][5] 并且发展出了开发中文和日文的 Web 和 IOS 应用的首选教程
 
 > 现在是时候教人们如何写代码了。
+
 > ### 为什么选择 CODECOMBAT?
 > 当我们制作 Skritter 时，George 还不会写程序，对于不能实现他的灵感这一点很苦恼。他试着学了学，但那些课程都太慢了。他的室友不想通过教材学习新技能，试了试 CodeAcademy，但是觉得“太无聊了。”每星期都会有个熟人尝试 CodeAcademy，然后无一例外地放弃掉。我们发现这和 Skritter 想要解决的是一个问题：人们想要的是高速学习、充分练习，得到的却是缓慢、冗长的课程。我们知道该怎么办了。
 
@@ -26,7 +27,11 @@ category: news
 
 自己玩了一下，还不错，目前支持的语言有`js`,`python`,`lua`等等。
 
-![](/_posts/2014-08-18-CodeCombat.png)
+当然，如果你觉得网站的访问速度不行，应为整个项目是开源的，你可以从官方[github]仓库下载源码自己搭建本地服务器。
+
+### 享受编程带来的乐趣吧
+
+![](mariso.53d529109f445.d01.nanoyun.com/2014-08-18-CodeCombat.png)
 
 [1]:http://codecombat.com/
 [2]:http://georgesaines.com/
