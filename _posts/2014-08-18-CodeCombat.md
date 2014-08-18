@@ -25,13 +25,13 @@ category: news
 
 > ####再说，这游戏还是免费的。[开始学习法术][1]！
 
-自己玩了一下，还不错，目前支持的语言有`js`,`python`,`lua`等等。
+自己玩了一下，还不错，目前支持的语言有`js`、`python`、`lua`等等。
 
 当然，如果你觉得网站的访问速度不行，应为整个项目是开源的，你可以从官方[github]仓库下载源码自己搭建本地服务器。
 
-### 享受编程带来的乐趣吧
+### 享受编程带来的乐趣吧!
 
-![](mariso.53d529109f445.d01.nanoyun.com/2014-08-18-CodeCombat.png)
+![](http://mariso.53d529109f445.d01.nanoyun.com/2014-08-18-CodeCombat.png)
 
 [1]:http://codecombat.com/
 [2]:http://georgesaines.com/
