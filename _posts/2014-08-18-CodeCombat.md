@@ -1,7 +1,7 @@
 ---
-layout:post
-title:CodeCombat:通过游戏学习编程
-category:news
+layout: post
+title: CodeCombat:通过游戏学习编程
+category: news
 ---
 
 最近发现了一个有趣的项目：[CodeCombat][1]，一个通过游戏学习编程的网站。
@@ -34,4 +34,4 @@ category:news
 [4]:http://www.nickwinter.net/
 [5]:http://www.skritter.com/
 
-{% include references.md $}
+{% include references.md %}
