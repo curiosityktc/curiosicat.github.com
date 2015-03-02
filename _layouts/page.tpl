@@ -45,7 +45,7 @@
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>研究生考试复习中...</p>
+		<p>一个理想主义者，不吃素食</p>
 	</div>
 	
 	<div class="block block-license">
